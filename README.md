@@ -1,4 +1,5 @@
-Programming Lab
+
+# Programming Lab
 
 This programming lab is about to construct a library `pysync` with two services represented by classes.
 
@@ -86,7 +87,7 @@ export PRODCONSMODULE=<where-the-prod-cons-is-installed>
 export RENDEZVOUSMODULE=<where-the-prod-cons-is-installed>
 ```
 
-Windows 
+Windows
 
 ```shell
 python3 -m unittest test/prod_con_test_<test_type>.py
