@@ -98,3 +98,11 @@ python3 -m unittest test/rendezvous_test_<test_type>.py
 python -m unittest test/prod_con_test_<test_type>.py
 python -m unittest test/rendezvous_test_<test_type>.py
 ```
+
+## Results
+
+![alt text](image.png)
+
+## Authors
+* **Alejandro Osorno**
+* **Sebastian Granda**
